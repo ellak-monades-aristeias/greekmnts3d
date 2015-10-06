@@ -26,4 +26,4 @@ V.2 με χωρική ανάλυση περίπου 30μ. ή NASA SRTM με χω
 ![Δείγμα 3d μοντέλου της Σαμοθράκης](https://cloud.githubusercontent.com/assets/2356135/9999811/1a65d7e2-60a1-11e5-839d-3352d8d809d6.png)
 
 
-<video src="https://pithos.okeanos.grnet.gr/public/UYqbR7cwGmY9Lg1nREIEr5" width="320" height="200" controls preload></video>
+[![video](https://cloud.githubusercontent.com/assets/2356135/10302049/39b0b5ec-6c11-11e5-8fcb-86d564ce171d.jpg)](https://www.dropbox.com/s/597pcict5zg0mg3/20150923_141714.mp4?dl=0)
