@@ -29,7 +29,7 @@ V.2 με χωρική ανάλυση περίπου 30μ. ή NASA SRTM με χω
 - Επεξεργασία χωρικών δεδομένων:https://github.com/ellak-monades-aristeias/greekmnts3d/blob/master/greekmntsdem.sh
 - Μετατροπή χωρικών δεδομένων σε μοντέλα για τρισδιάστατη εκτύπωση:https://github.com/ellak-monades-aristeias/greekmnts3d/tree/master/stl
 - Τεχνική έκθεση:https://github.com/ellak-monades-aristeias/greekmnts3d/wiki
-- 
+
 ## Οδηγίες
 
 [Οδηγίες για τελικούς χρήστες](https://github.com/ellak-monades-aristeias/greekmnts3d/wiki/%CE%9F%CE%B4%CE%B7%CE%B3%CE%AF%CE%B5%CF%82-%CE%B3%CE%B9%CE%B1-%CF%84%CE%B5%CE%BB%CE%B9%CE%BA%CE%BF%CF%8D%CF%82-%CF%87%CF%81%CE%AE%CF%83%CF%84%CE%B5%CF%82)
