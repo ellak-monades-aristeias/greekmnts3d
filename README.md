@@ -36,7 +36,7 @@ V.2 με χωρική ανάλυση περίπου 30μ. ή NASA SRTM με χω
 
 [Οδηγίες για Developers](https://github.com/ellak-monades-aristeias/greekmnts3d/wiki/%CE%9F%CE%B4%CE%B7%CE%B3%CE%AF%CE%B5%CF%82-%CE%B3%CE%B9%CE%B1-Developers)
 
- Για την αναφορά προτάσεων,βελτιώσεων,σφαλμάτων, δυσλειτουργιών προτείνεται η καταχώρησή τους στην ενότητα [Issues](https://github.com/ellak-monades-aristeias/greekmnts3d/issues) του αποθετηρίου.
+ Για την αναφορά προτάσεων, βελτιώσεων, σφαλμάτων, δυσλειτουργιών προτείνεται η καταχώρησή τους στην ενότητα [issues](https://github.com/ellak-monades-aristeias/greekmnts3d/issues) του αποθετηρίου.
 
 
 ## Δείγματα
