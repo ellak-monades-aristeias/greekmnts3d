@@ -38,6 +38,7 @@ V.2 με χωρική ανάλυση περίπου 30μ. ή NASA SRTM με χω
 
 
 ## Δείγματα
+[Διαθέσιμα δείγματα](https://github.com/ellak-monades-aristeias/greekmnts3d/wiki/3.-%CE%94%CE%B5%CE%AF%CE%B3%CE%BC%CE%B1%CF%84%CE%B1)
 ![Δείγμα 3d μοντέλου της Σαμοθράκης](https://cloud.githubusercontent.com/assets/2356135/9999811/1a65d7e2-60a1-11e5-839d-3352d8d809d6.png)
 
 
