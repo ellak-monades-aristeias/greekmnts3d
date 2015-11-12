@@ -20,7 +20,7 @@ V.2 με χωρική ανάλυση περίπου 30μ. ή NASA SRTM με χω
 - θα εξεταστεί ο απαιτούμενος βαθμός υπερβολής (z factor) ώστε για να
 βελτιστοποιηθεί το οπτικό αποτέλεσμα της εκτύπωσης.
 
-## Ομάδα έγου
+## Ομάδα έργου
 Η ομάδα έργου αποτελείται από τους [Δημήτρη Σταθάκη](https://gr.linkedin.com/in/dstath), [Λεωνίδα Λιάκο](https://gr.linkedin.com/in/leonidasliakos),
 [Ιωάννη Φαρασλή](https://gr.linkedin.com/pub/faraslis-ioannis/9/30b/40) και [Χρίστο Λυοτύρη](https://www.linkedin.com/pub/christos-liotiris/a0/32b/18).
 
