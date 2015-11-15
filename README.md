@@ -1,5 +1,11 @@
 #Τρισδιάστατα μοντέλα για εκτύπωση βουνών της Ελλάδας
 
+##Short description
+The project involves the creation of three dimensional models for Greek mountains, suitable for printing to a 3d printer.
+Those specified mountains that will be modeled are Hymettus, Pelion and Samothrace (throughout the island).
+The final digital models that will be produced will be openly available without copyright restrictions.
+
+## Συνοπτική περιγραφή
 Το έργο αφορά στη δημιουργία τρισδιάστατων μοντέλων για βουνά της
 Ελλάδας, κατάλληλα για εκτύπωση σε 3D εκτυπωτή. Τα συγκεκριμένα βουνά
 που θα μοντελοποιηθούν είναι ο *Υμηττός*, το *Πήλιο* και η *Σαμοθράκη* (όλο το
