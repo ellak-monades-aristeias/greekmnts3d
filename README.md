@@ -2,7 +2,7 @@
 
 ##Short description
 The project involves the creation of three dimensional models for Greek mountains, suitable for printing to a 3d printer.
-Those specified mountains that will be modeled are Hymettus, Pelion and Samothrace (throughout the island).
+Those specified mountains that will be modeled are Hymettus, Pelion and Samothrace (the complete island).
 The final digital models that will be produced will be openly available without copyright restrictions.
 
 ## Συνοπτική περιγραφή
